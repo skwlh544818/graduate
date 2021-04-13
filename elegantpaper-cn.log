@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.30)  12 APR 2021 19:33
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.30)  13 APR 2021 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1019,8 +1019,6 @@ File: image//save_Va_acc-5-3.0.png Graphic file (type bmp)
 <image//save_Va_acc-5-3.0.png>
 File: image//save_Va_loss-5-3.0.png Graphic file (type bmp)
 <image//save_Va_loss-5-3.0.png>
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 201.
  [6]
 
 LaTeX Warning: Text page 7 contains only floats.
@@ -1029,97 +1027,17 @@ LaTeX Warning: Text page 7 contains only floats.
 
 LaTeX Warning: Text page 8 contains only floats.
 
-[8]
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 205.
- (c:/texlive/2020/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
-File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
-)
-LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 205.
-File: image//star.png Graphic file (type bmp)
-<image//star.png>
-File: image//donate.jpg Graphic file (type bmp)
-<image//donate.jpg>
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 229.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.0pt on input line 229.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.0pt on input line 234.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 275.
-
-Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "FangSong/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "FangSong/I" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
-(fontspec)             with options [Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
- [9]
-LaTeX Font Info:    Trying to load font information for T1+ntxsups on input line 280.
- (c:/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxsups.fd
-File: t1ntxsups.fd 2015/01/17 v1.0
-)
-LaTeX Font Info:    Font shape `T1/ntxsups/m/n' will be
-(Font)              scaled to size 10.95pt on input line 280.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 280.
-LaTeX Font Info:    Font shape `T1/ntxsups/m/n' will be
-(Font)              scaled to size 9.0pt on input line 280.
- [10]
-No file elegantpaper-cn.bbl.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.0pt on input line 317.
-
-Package fontspec Info: Could not resolve font "SimHei/BI" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Could not resolve font "SimHei/B" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
-(fontspec)             options [Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-[11] [12] (./elegantpaper-cn.aux)
+[8] [9] (./elegantpaper-cn.aux)
 Package rerunfilecheck Info: File `elegantpaper-cn.out' has not changed.
-(rerunfilecheck)             Checksum: 886AFF035AF8C7ACD62C84F0E5090329;1632.
+(rerunfilecheck)             Checksum: 6938011AA96FC15DA072F2389DA9E6F2;1109.
  ) 
 Here is how much of TeX's memory you used:
- 22475 strings out of 476930
- 429050 string characters out of 5825868
- 1069698 words of memory out of 5000000
- 42050 multiletter control sequences out of 15000+600000
- 463755 words of font info for 109 fonts, out of 8000000 for 9000
+ 20861 strings out of 476930
+ 398583 string characters out of 5825868
+ 1019698 words of memory out of 5000000
+ 40467 multiletter control sequences out of 15000+600000
+ 435526 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 118i,10n,136p,443b,2368s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 118i,9n,136p,443b,560s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on elegantpaper-cn.pdf (12 pages).
+Output written on elegantpaper-cn.pdf (9 pages).
