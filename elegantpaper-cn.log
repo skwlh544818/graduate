@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.30)  13 APR 2021 20:55
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.30)  14 APR 2021 14:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1060,13 +1060,13 @@ LaTeX Warning: Text page 8 contains only floats.
 
 [8] [9] [10] [11] (./elegantpaper-cn.aux)
 Package rerunfilecheck Info: File `elegantpaper-cn.out' has not changed.
-(rerunfilecheck)             Checksum: 2BF8EA03E7EFD7C61FC35685D06C5080;1379.
+(rerunfilecheck)             Checksum: D3F2CB99BA8C4A95C90373A04E4888AD;1462.
  ) 
 Here is how much of TeX's memory you used:
- 21128 strings out of 476930
- 402558 string characters out of 5825868
- 1021698 words of memory out of 5000000
- 40721 multiletter control sequences out of 15000+600000
+ 21129 strings out of 476930
+ 402570 string characters out of 5825868
+ 1022698 words of memory out of 5000000
+ 40722 multiletter control sequences out of 15000+600000
  435526 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  118i,17n,136p,443b,560s stack positions out of 5000i,500n,10000p,200000b,80000s
